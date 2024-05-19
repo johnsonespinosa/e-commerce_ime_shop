@@ -1,0 +1,15 @@
+pillow
+python-dotenv
+psycopg2
+markdown
+reportlab 
+django
+djangorestframework
+django-mptt
+django-import-export
+django-extensions
+django-jazzmin
+django-jazzmin-admin-rangefilter
+django-redis
+django-filter
+django-admin-notifications
